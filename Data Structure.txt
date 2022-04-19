@@ -1,0 +1,27 @@
+Category
+Tasks
+TaskPriority
+
+
+Category
+	Id
+	Name
+	IsDefault (Always only 1 default allowed)
+	
+	
+TaskPriority
+	Id
+	Code
+	
+Task
+	Id
+	Name
+	CategoryId
+	TaskPriorityId
+	DueDate
+	IsDeleted
+	Favorite
+
+	
+	
+
